@@ -20,7 +20,7 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/xanzy/go-gitlab"
+	"github.com/lizalc/go-gitlab"
 )
 
 func clusterAgentsExample() {
